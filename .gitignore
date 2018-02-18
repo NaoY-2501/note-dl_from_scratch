@@ -1,0 +1,9 @@
+# OS X metadata
+.DS_Store
+
+# numpt how_to
+script/
+
+# download files
+notebook/dataset/*.gz
+

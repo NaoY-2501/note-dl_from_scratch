@@ -1,6 +1,9 @@
 # OS X metadata
 .DS_Store
 
+# jupyter notebook checkout
+notebook/.ipynb_checkpoints
+
 # numpt how_to
 script/
 
